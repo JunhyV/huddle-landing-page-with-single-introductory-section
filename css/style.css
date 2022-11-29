@@ -59,6 +59,7 @@ main{
 button:hover{
     color: var(--letter);
     background-color: var(--button-hover);
+    cursor: pointer;
 }
 
 footer{ 
